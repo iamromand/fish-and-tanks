@@ -2,9 +2,9 @@
   "name": "SimpleHelloWorld",
   "version": "1.0.0",
   "description": "",
-  "main": "helloworld.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node helloworld.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
